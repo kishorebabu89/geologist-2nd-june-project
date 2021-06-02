@@ -1,1 +1,2 @@
-# geologist-2nd-june-project
+# Geologist
+Geologist Project
